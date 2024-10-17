@@ -6,11 +6,11 @@ public class CuadradoYsuma {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int casos = sc.nextInt();
+        String[] numeros = sc.nextLine().trim().split(" ");
         int suma =0;
         int cuadrado=0;
-        for (int i= 0; i < casos; i++){
-            int temp= sc.nextInt();
+        for (String n:numeros){
+            int temp= Integer.parseInt(n);
             cuadrado=temp*temp;
             suma+=cuadrado;
         }
