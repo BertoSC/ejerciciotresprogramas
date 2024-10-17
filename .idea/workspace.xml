@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1a6cb6-cf98-4c96-974f-c3057b4b1ffa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1e1a6cb6-cf98-4c96-974f-c3057b4b1ffa" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CuadradoYsuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CuadradoYsuma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ProcesoPadre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ProcesoPadre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SumaYcuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SumaYcuadrado.java" afterDir="false" />
@@ -104,6 +102,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729163473541</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1729182377147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729182377147</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
